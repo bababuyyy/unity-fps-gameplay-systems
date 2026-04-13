@@ -70,7 +70,7 @@ Assets/
         │   ├── EnemyRagdoll.cs
         │   └── EntityHealth.cs
         ├── Core/
-        │   └── PlayerInputHandler.cs
+        │   └── PlayerState.cs
         ├── Interaction/
         │   ├── GrabPoint.cs
         │   ├── IInteractable.cs
